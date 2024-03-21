@@ -16,7 +16,7 @@ const LineChart = () => {
 	return (
 		<div>
 			<LChart
-				width={800}
+				width={400}
 				height={400}
 				data={mathMarksData}
 			>
