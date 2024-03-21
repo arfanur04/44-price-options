@@ -9,7 +9,7 @@ const Link = ({ route }) => {
 };
 
 Link.propTypes = {
-	route: PropTypes.object.isRequired,
+	route: PropTypes.object,
 };
 
 export default Link;
